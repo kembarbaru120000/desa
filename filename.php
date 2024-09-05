@@ -180,7 +180,7 @@ display:none
     /// 
      public static string curr = "xxx";
      string connstr;
-     string password="admin";
+     string password="admin_gacor1";
      public class data
      {
          public data(string n, string s, string fp, string lm)
